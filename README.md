@@ -1,4 +1,4 @@
-<h1 align="center">YOSHIDA Haruto's GitHub Profile</h1>
+<h1 align="center">Haruto Yoshida's GitHub Profile</h1>
 
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruto2001&layout=compact&count_private=true&show_icons=true&theme=onedark" />
